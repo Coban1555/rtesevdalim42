@@ -1,13 +1,13 @@
 html{
-    background-color: yellow;
+    background-color: rgb(255, 255, 255);
 }
 header{
-    background-color: blue;
+    background-color: black;
     color:white ;
     padding: 5px;
 }
 footer{
-    background-color: blue;
+    background-color: black;
     color: white;
     padding: 25px;
 }
